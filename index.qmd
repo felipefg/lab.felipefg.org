@@ -1,7 +1,5 @@
 ---
-title: "Felipe Grael"
+title: "Felipe's Lab Notes"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Just some notes from my research journey, fueled by curiosity and caffeine.
