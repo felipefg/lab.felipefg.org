@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+$navbar-dark-color:  rgba(216, 6, 33, 0.65);
+$navbar-light-color:  rgba(216, 6, 33, 0.65);
+
+/*-- scss:rules --*/
+
+.navbar {
+    background-color: $body-bg !important;
+    border-bottom: 1px solid body-mix(50%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 0.1px solid $gray-800;
+}
